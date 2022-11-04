@@ -1,2 +1,3 @@
 # chess_openings
-Harris Hafeez, Kurt Nakasato, Sravant Chadalawada 
+Harris Hafeez, Kurt Nakasato, Sravant Chadalawada   
+
