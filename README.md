@@ -1,3 +1,2 @@
 # chess_openings
-Harris Hafeez, Kurt Nakasato, Sravant Chadalawada /n
-hi
+Harris Hafeez, Kurt Nakasato, Sravant Chadalawada 
